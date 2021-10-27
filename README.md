@@ -10,7 +10,7 @@
 
 - 커밋 메시지 (로그 메시지)
 ```markdown
-~ $ gid commit -m "UPDATED: README.md fixed"
+~ $ git commit -m "UPDATED: README.md fixed"
 ```
 
 - 파일 최종 업로드
